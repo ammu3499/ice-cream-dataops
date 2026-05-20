@@ -5,7 +5,7 @@ modules:
   - name: ice_cream_api
     location:
       path: modules/bootcamp/ice_cream_api
-      hash: 45e14be2
+      hash: df39f00f
     build_variables:
     - key: icapi_ds_external_id
       value: ds_icapi
@@ -196,7 +196,7 @@ modules:
   - name: oee
     location:
       path: modules/bootcamp/use_cases/oee
-      hash: 426cd07b
+      hash: dd1d89ca
     build_variables:
     - key: icapi_ds_external_id
       value: ds_icapi

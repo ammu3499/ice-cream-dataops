@@ -1,2 +1,2 @@
-cognite-sdk==7.94.0
+cognite-sdk==7.90.0
 pandas
